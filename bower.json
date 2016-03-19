@@ -1,0 +1,22 @@
+{
+  "name": "simple site",
+  "version": "0.0.0",
+  "authors": [
+    "martinj96 <martinjosifoski@yahoo.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ilche-plug-in": "*",
+    "martinj-animation-plugin": "*"
+  }
+}
