@@ -1,2 +1,2 @@
-master text
+gaamaster text
 some test text
